@@ -1,1 +1,0 @@
-import{j as e,A as n,c as a,a as i}from"./index-Bf0QmOiN.js";const c={sm:"h-8 w-8",md:"h-10 w-10",lg:"h-14 w-14",xl:"h-24 w-24"};function u({name:r,photoUrl:l,size:s="md",className:t}){const o=i(l);return o?e.jsx("img",{src:o,alt:r,className:a("shrink-0 rounded-full object-cover ring-1 ring-white/10",c[s],t)}):e.jsx(n,{name:r,size:s,className:t})}export{u as P};
